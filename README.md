@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heniks07
 - 👀 I’m interested in programing and website desining
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
